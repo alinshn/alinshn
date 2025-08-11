@@ -17,16 +17,21 @@
 
 ## 🎯 About Me
 
-const designer = {
-  name: "Your Name",
-  role: "UX/UI Designer & Web Developer",
-  education: "Digital Technology @ KMUTT (2027)",
-  location: "Bangkok → Toronto (Express Entry NOC 21233)",
-  experience: ["UX Research", "UI Design", "Frontend Development", "Usability Testing"],
-  philosophy: "Design is not just what it looks like—it's how it works",
-  mission: "Creating accessible, beautiful, and sustainable digital experiences",
-  currentGoal: "Building portfolio for Canada Express Entry as Web Designer"
-};
+### 👋 Hi, I'm Your Name
+
+**Role:** UX/UI Designer & Web Developer  
+**Education:** Digital Technology @ KMUTT (2027)  
+**Location:** Bangkok → Toronto (Express Entry NOC 21233)
+
+**Experience**
+- UX Research
+- UI Design
+- Frontend Development
+- Usability Testing
+
+**Philosophy:** _Design is not just what it looks like—it's how it works_  
+**Mission:** Creating accessible, beautiful, and sustainable digital experiences  
+**Current Goal:** Building portfolio for Canada Express Entry as Web Designer
 
 
 
