@@ -22,12 +22,7 @@ const designer = {
   role: "UX/UI Designer & Web Developer",
   education: "Digital Technology @ KMUTT (2027)",
   location: "Bangkok → Toronto (Express Entry NOC 21233)",
-  experience: [
-    "UX Research",
-    "UI Design",
-    "Frontend Development",
-    "Usability Testing"
-  ],
+  experience: ["UX Research", "UI Design", "Frontend Development", "Usability Testing"],
   philosophy: "Design is not just what it looks like—it's how it works",
   mission: "Creating accessible, beautiful, and sustainable digital experiences",
   currentGoal: "Building portfolio for Canada Express Entry as Web Designer"
