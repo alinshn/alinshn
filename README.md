@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Alin Sanhanat] 👋
 
 ## 🚀 About Me
 - 🎓 Digital Technology Student at KMUTT (Graduating 2027)
