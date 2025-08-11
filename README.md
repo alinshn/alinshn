@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Hi, I'm [Your Name] - UX/UI Design Technologist
+# 🌟 Hi, I'm Alin Sanhanat - UX/UI Design Technologist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=UX%2FUI+Designer+%26+Developer;AI-Powered+Design+Specialist;Framer+Motion+Animation+Expert;WebGL+%26+Three.js+Enthusiast;Sustainable+Design+Advocate" alt="Typing SVG" />
 
