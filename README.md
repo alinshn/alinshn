@@ -18,15 +18,30 @@
 ## 🎯 About Me
 
 const designer = {
-name: "Your Name",
-role: "UX/UI Designer & Web Developer",
-education: "Digital Technology @ KMUTT (2027)",
-location: "Bangkok → Toronto (Express Entry NOC 21233)",
-experience: ["UX Research", "UI Design", "Frontend Development", "Usability Testing"],
-philosophy: "Design is not just what it looks like—it's how it works",
-mission: "Creating accessible, beautiful, and sustainable digital experiences",
-currentGoal: "Building portfolio for Canada Express Entry as Web Designer"
+  name: "Your Name",
+  role: "UX/UI Designer & Web Developer",
+  education: "B.Sc. Digital Technology @ KMUTT (Class of 2027)",
+  location: "Bangkok → Toronto (Express Entry NOC 21233)",
+  experience: [
+    "UX Research",
+    "UI Design",
+    "Frontend Development",
+    "Usability Testing"
+  ],
+  philosophy: "Design is not just what it looks like—it's how it works",
+  mission: "Creating accessible, beautiful, and sustainable digital experiences",
+  currentGoal: "Building portfolio for Canada Express Entry as Web Designer"
 };
+
+// Example: render to console
+console.log(`👋 Hi, I'm ${designer.name} — ${designer.role}`);
+console.log(`🎓 Education: ${designer.education}`);
+console.log(`📍 Location: ${designer.location}`);
+console.log(`💼 Skills: ${designer.experience.join(', ')}`);
+console.log(`💡 Philosophy: "${designer.philosophy}"`);
+console.log(`🚀 Mission: ${designer.mission}`);
+console.log(`🎯 Current Goal: ${designer.currentGoal}`);
+
 
 
 ### 🧠 Design Philosophy
