@@ -1,11 +1,11 @@
 # Hi there, I'm [Alin Sanhanat] 👋
 
 ## 🚀 About Me
-- 🎓 Digital Technology Student at KMUTT (Graduating 2027)
+- 🎓 Digital Technology Student at SUT (Graduating 2027)
 - 💻 Aspiring Web Developer with UX/UI background
 - 🌱 Currently learning React, Node.js, and French
 - 🎯 Goal: Contribute to sustainable tech solutions in Canada
-- 📫 Reach me: your.email@gmail.com
+- 📫 Reach me: alin.sanahanat@gmail.com
 
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
