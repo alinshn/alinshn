@@ -11,6 +11,17 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](your-figma)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](your-dribbble)
 
+const designer = {
+name: "Your Name",
+role: "UX/UI Designer & Web Developer",
+education: "Digital Technology @ KMUTT (2027)",
+location: "Bangkok → Toronto (Express Entry NOC 21233)",
+experience: ["UX Research", "UI Design", "Frontend Development", "Usability Testing"],
+philosophy: "Design is not just what it looks like—it's how it works",
+mission: "Creating accessible, beautiful, and sustainable digital experiences",
+currentGoal: "Building portfolio for Canada Express Entry as Web Designer"
+};
+
 </div>
 
 ---
