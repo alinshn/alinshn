@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm [Your Name] - UX/UI Designer & Web Developer
+# 👋 Hi, I'm Alin Sanhanat - UX/UI Designer & Web Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=UX%2FUI+Designer+%26+Web+Developer;Human-Centered+Design+Expert;Advanced+Prototyping+Specialist;Framer+Motion+Animation+Master;Accessibility+%26+Performance+Advocate;Building+Digital+Experiences+for+Canada" alt="Typing SVG" />
 
@@ -17,7 +17,7 @@
 
 ## 🎯 About Me
 
-### 👋 Hi, I'm Your Name
+### 👋 Hi, I'm Alin Sanhanat
 
 **Role:** UX/UI Designer & Web Developer  
 **Education:** Digital Technology @ KMUTT (2027)  
